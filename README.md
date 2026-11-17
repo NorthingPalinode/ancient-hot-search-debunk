@@ -90,3 +90,9 @@ AI_TIMEOUT_MS=20000
 | `npm run test:e2e` | 浏览器端到端回归（不调用真实 AI） |
 
 更多文档：[任务书](docs/任务书.md) · [内容审核记录](docs/CONTENT_REVIEW.md) · [AI 使用说明](docs/AI_USAGE.md) · [素材登记](docs/ASSET_LICENSES.md) · [QA 报告](docs/QA_REPORT.md) · [更新日志](CHANGELOG.md)
+
+## 许可证
+
+本仓库中由项目权利人提供授权的原创软件代码采用 [PolyForm Strict 1.0.0](LICENSE)。该许可允许非商业使用，商业使用、修改和再分发须另行获得授权。
+
+第三方依赖、引用的史料及另有权属的素材适用各自的条款。图片和其他素材的来源见 [素材登记](docs/ASSET_LICENSES.md)。
