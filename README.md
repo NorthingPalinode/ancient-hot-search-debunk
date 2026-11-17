@@ -6,8 +6,7 @@
 
 文化试验场 · 互动历史科普 Web 应用
 
-- 项目仓库：<https://github.com/V-Giotto/ancient-hot-search-debunk>
-- 项目网址：<https://ancient-hot-search.app.workbuddy.host/?sharecode=PSKI42CZSS>
+本作品已取得 **2026 青年 AI 黑客松二等奖**。
 
 ## 01 这是一款什么作品？
 
